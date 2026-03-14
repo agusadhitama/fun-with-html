@@ -55,4 +55,4 @@ const colors = [
 
 Lisensi
 
-MIT © 2026 Adhit
+MIT © 2026 Agus Satria Adhitama
