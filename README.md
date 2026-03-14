@@ -6,8 +6,7 @@
 ---
 
 Live Demo 🌐  
-
-[https://agusadhitama.github.io/FunWithHTML](https://agusadhitama.github.io/FunWithHTML)
+https://agusadhitama.github.io/fun-with-html/
 
 ---
 
